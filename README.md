@@ -7,6 +7,7 @@ Test new technologies, readings, promote some open source ideas.
 * Implement Next.js code base strucure (with demo)
 * Improve ReactJS techniques (how to compose better components)
 * Implement a solid webpack structure
+* Personal website
 
 
 #Must-read

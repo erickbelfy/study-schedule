@@ -4,10 +4,10 @@ Test new technologies, readings, promote some open source ideas.
 #Implement
 
 * Docker structure (compactible with Node.js)
-* Implement Next.js code base strucure (with demo)
 * Improve ReactJS techniques (how to compose better components)
 * Implement a solid webpack structure
 * Personal website
+* Learn about [SSB](https://www.gitbook.com/book/ssbc/ssb-handbook/details)
 
 
 #Must-read
